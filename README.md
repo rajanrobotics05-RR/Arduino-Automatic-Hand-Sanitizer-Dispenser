@@ -150,6 +150,10 @@ UDYAM Registration: UDYAM-TN-27-0023934
 
 **Learn | Build | Innovate | Inspire**
 
+## 🖼️ Project Banner
+
+![Arduino Automatic Hand Sanitizer Dispenser - Rajan Robotics](RR_Automatic_Hand_Sanitizer_png.png)
+
 ---
 
 ⭐ If you find this project useful, consider starring this repository!
